@@ -116,7 +116,7 @@ export const doctors = [
     },
     {
         _id: 'doc3',
-        name: 'Dr. Sneha Verma', // Female
+        name: 'Dr. Vivek Verma', // male
         image: doc3,
         speciality: 'Dermatologist',
         degree: 'MBBS',
@@ -186,7 +186,7 @@ export const doctors = [
     },
     {
         _id: 'doc8',
-        name: 'Dr. Kavita Pandey', // Female
+        name: 'Dr. Dinesh Pandey', // Female
         image: doc8,
         speciality: 'Gynecologist',
         degree: 'MBBS',
@@ -270,7 +270,7 @@ export const doctors = [
     },
     {
         _id: 'doc14',
-        name: 'Dr. Preeti Singh', // Female
+        name: 'Dr. Preet Singh', // Female
         image: doc14,
         speciality: 'Gynecologist',
         degree: 'MBBS',
